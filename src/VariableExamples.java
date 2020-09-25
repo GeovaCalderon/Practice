@@ -15,5 +15,6 @@ public class VariableExamples {
         //Una variable no entera de 64 bits e inicialícela con un valor que incluya decimales.
 
         double variable3 = 245.16;
+
     }
 }
