@@ -10,7 +10,7 @@ public class VariableExamples {
         //Una variable numérica de 64 bits e inicialícela con un valor que no podría ser almacenado
         // en una variable entera de 32bits debido a su tamaño en memoria.
 
-        long variable2 = 2147483647;
+        long variable2 = 2147483648l;
 
         //Una variable no entera de 64 bits e inicialícela con un valor que incluya decimales.
 
